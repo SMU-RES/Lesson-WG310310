@@ -1,0 +1,10 @@
+Metric,Symbol,Value,Unit
+RiseTime,tr,0.0288740859568814,s
+PeakTime,tp,0.075,s
+Overshoot,sigma,1.47485508519214,%
+SettlingTime,ts,0.0439639044352247,s
+SteadyStateError,ess,-0.000578802073383455,
+PhaseMargin,Pm,86.3679362800474,deg
+GainMargin,Gm,NaN,dB
+GainCrossoverFrequency,wc,68.1641773471257,rad/s
+PhaseCrossoverFrequency,w180,0,rad/s
